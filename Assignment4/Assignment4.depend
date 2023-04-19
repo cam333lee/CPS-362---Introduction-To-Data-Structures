@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1651375992 source:c:\users\cameron lee\onedrive - lakeland university\spring semester 2022\data structures\assignment 3\assignment4\main.cpp
+	<iostream>
+	"linkedQueueType.h"
+	<queue>
+
+1651376305 c:\users\cameron lee\onedrive - lakeland university\spring semester 2022\data structures\assignment 3\assignment4\linkedqueuetype.h
+	<iostream>
+	<queue>
+
+1651376362 source:c:\users\cameron lee\onedrive - lakeland university\spring semester 2022\data structures\assignment 3\assignment4\linkedqueuetype.cpp
+	<iostream>
+	"linkedQueueType.h"
+
