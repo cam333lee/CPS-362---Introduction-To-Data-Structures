@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1647710699 source:c:\users\cameron lee\onedrive - lakeland university\spring semester 2022\data structures\assignment_1\assign_2_lee_c\fruit.cpp
+	<iostream>
+	"Fruit.h"
+	<iomanip>
+
+1647710720 c:\users\cameron lee\onedrive - lakeland university\spring semester 2022\data structures\assignment_1\assign_2_lee_c\fruit.h
+	<string>
+	<iostream>
+
+1648003989 source:c:\users\cameron lee\onedrive - lakeland university\spring semester 2022\data structures\assignment_1\assign_2_lee_c\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"fruit.h"
+	"arrayListType.h"
+	"fruitArrayType.h"
+
+1647712166 c:\users\cameron lee\onedrive - lakeland university\spring semester 2022\data structures\assignment_1\assign_2_lee_c\arraylisttype.h
+	<iostream>
+	<cassert>
+
+1647713182 c:\users\cameron lee\onedrive - lakeland university\spring semester 2022\data structures\assignment_1\assign_2_lee_c\fruitarraytype.h
+	<iostream>
+	<cassert>
+	"arrayListType.h"
+	"fruit.h"
+
+1648003813 source:c:\users\cameron lee\onedrive - lakeland university\spring semester 2022\data structures\assignment_1\assign_2_lee_c\fruitarraytype.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"fruit.h"
+	"arrayListType.h"
+	"fruitArrayType.h"
+
